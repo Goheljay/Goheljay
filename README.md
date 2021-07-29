@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Jay Gohel</h1>
-<h3 align="center">A passionate about Full stack developer, Android app developer in Java and Flutter...</h3>
+<h3 align="center">A passionate about Full stack developer, Android app developer ...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goheljay&label=Profile%20views&color=0e75b6&style=flat" alt="goheljay" /> </p>
 
