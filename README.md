@@ -46,3 +46,5 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=goheljay&show_icons=true&locale=en&theme=radical" alt="goheljay" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=goheljay&show_icons=true&locale=en&theme=radical" alt="goheljay" /></p>
+
+[![Vedant's github activity graph](https://activity-graph.herokuapp.com/graph?username=Goheljay&theme=react-dark)](https://github.com/Goheljay)
