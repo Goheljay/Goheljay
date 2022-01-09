@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Our Collage app**
 
-- 🌱 I’m currently learning **machine Learning, Data Science**
+- 🌱 I’m currently Exploring **Android with Appwrite** and trying to Learn about **Flutter**
 
 - 👨‍💻 You can also check my portfolio [https://jaygohel.netlify.com](https://jaygohel.netlify.com)
 
