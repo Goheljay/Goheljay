@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/jaygohel2001" target="blank"><img src="https://img.shields.io/twitter/follow/jaygohel2001?logo=twitter&style=for-the-badge" alt="jaygohel2001" /></a> </p>
 
-- 🔭 I’m currently working on **Our Collage app**
+- 🔭 I’m currently working as a **Java Develoepr** at Softvan, Ahmedabad
 
-- 🌱 I’m currently Exploring **Android with Appwrite** and trying to Learn about **Flutter**
+- 🌱 I’m currently Exploring **Android with Appwrite** and Learn **Flutter**
 
 - 👨‍💻 You can also check my portfolio [https://jaygohel.netlify.com](https://jaygohel.netlify.com)
 
