@@ -58,5 +58,6 @@ Here are some ideas to get you started:
 <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=goheljay&show_icons=true&locale=en&theme=radical" alt="goheljay" /></p>
   </div>
-
+<!--
 [![Jay's github activity graph](https://activity-graph.herokuapp.com/graph?username=Goheljay&theme=react-dark)](https://github.com/Goheljay)
+-->
