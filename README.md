@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently Exploring **AWS Services** and Learn **System Design**
 
-- 👨‍💻 You can also check my portfolio [https://jaygohel.netlify.com](https://jaygohel.netlify.com)
+- 👨‍💻 You can also check my portfolio [https://jaygohel.netlify.app](https://jaygohel.netlify.app)
 
 <!--
 - 📫 You can Can Contract me **gohel.jay177@gmail.com**
