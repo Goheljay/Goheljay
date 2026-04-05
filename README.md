@@ -72,10 +72,10 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Goheljay&show_icons=true&theme=default&hide_border=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goheljay&layout=compact&theme=default&hide_border=true" height="160"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Goheljay&hide_border=true" height="150"/>
