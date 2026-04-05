@@ -1,66 +1,96 @@
-### 
+<!-- GitHub Profile README — Jay Gohel (Goheljay) -->
+<h1 align="center">Hey, I'm Jay Gohel 👋</h1>
 
-<!--
-**Goheljay/Goheljay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Associate Software Engineer</b> &nbsp;·&nbsp; Full Stack Developer &nbsp;·&nbsp; Open Source Contributor<br/>
+  📍 Ahmedabad, India &nbsp;|&nbsp; 🌐 <a href="https://jaygohel.netlify.com">jaygohel.netlify.com</a>
+</p>
 
-Here are some ideas to get you started:
+<!-- <p align="center">
+  <a href="https://twitter.com/jaygohel2001"><img src="https://img.shields.io/badge/Twitter-%40jaygohel2001-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
+  <a href="https://github.com/Goheljay"><img src="https://img.shields.io/badge/GitHub-Goheljay-181717?style=flat-square&logo=github"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Goheljay&style=flat-square&color=blue" alt="Profile views"/>
+</p> -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=378ADD&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Spring+Boot+%7C+React+%7C+Vue.js;Building+Fintech+%26+Web+Apps;Open+Source+Contributor" alt="Typing SVG"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-<h1 align="center">Hi 👋, I'm Jay Gohel</h1>
-<h3 align="center">I am working as a Full Stack Java Developer</h3>
+### 🚀 About me
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=goheljay&label=Profile%20views&color=0e75b6&style=flat" alt="goheljay" /> </p>
+- 💼 **Associate Software Engineer** @ Sahana System Ltd, Ahmedabad
+- 🎓 B.E. Computer Engineering — SPCE, GTU
+- 🌱 Currently exploring **System Design** & deepening **AWS expertise** & **AI**
+- 💬 Ask me about **Spring Boot**, **React**, **Vue.js**, **Node.js**, or fintech backends
+- 🏆 Postman Student Expert · Udacity Cloud Computing Scholar (SUSE)
+- 🤝 Open to collaborating on Java / JavaScript open source projects
+- 📫 Portfolio: [jaygohel.netlify.com](https://jaygohel.netlify.com)
 
+---
 
+### 🛠️ Tech Stack
 
-<p align="left"> <a href="https://twitter.com/jaygohel2001" target="blank"><img src="https://img.shields.io/twitter/follow/jaygohel2001?logo=twitter&style=for-the-badge" alt="jaygohel2001" /></a> </p>
-<!--
-- 🔭 I’m currently working as a **Java Develoepr** at Softvan, Ahmedabad
--->
+**Languages**
 
-- 🌱 I’m currently Exploring **AWS Services** and Learn **System Design**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-- 👨‍💻 You can also check my portfolio [https://jaygohel.netlify.app](https://jaygohel.netlify.app)
+**Frameworks & Platforms**
 
-<!--
-- 📫 You can Can Contract me **gohel.jay177@gmail.com**
--->
-- 💬 Ask me about **Frontend Tech** and **Spring Boot**
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)
 
+**Cloud & Databases**
 
-<div align="center">
-<h2 align="center"><b>You can connect with me over:</b></h2>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-[<img align="center" height="48" width="48" target="blank" src="https://img.icons8.com/fluent/2x/twitter.png" style="color:#1DA1F2" />](https://twitter.com/jaygohel2001) &nbsp;&nbsp;&nbsp;&nbsp;
-[<img align="center" height="48" width="48" target="blank" src="https://img.icons8.com/fluent/2x/linkedin.png" style="color:#0A66C2" />](https://www.linkedin.com/in/goheljay/)&nbsp;&nbsp;&nbsp;&nbsp;
-[<img align="center" height="48" width="48" target="blank" src="https://img.icons8.com/bubbles/2x/github.png" style="color:#181717" />](https://github.com/Goheljay)&nbsp;&nbsp;&nbsp;&nbsp;
-[<img align="center" height="48" width="48" target="blank" src="https://img.icons8.com/color/2x/instagram-new.png" style="color:#E4405F" />](https://www.instagram.com/jaygohel_22_/)&nbsp;&nbsp;&nbsp;&nbsp;
-<br />
-  </div>
-<!--
-<div align="center"> -->
-  
- <!-- <h2 align="center"><b>Languages and Tools</b></h2> -->
-  
-<!-- <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> -->
-  
-<!--  </div> -->
-  <!--
-  <div align="center">
-      <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=goheljay&show_icons=true&locale=en&theme=radical" alt="goheljay" /></p>
-  </div> -->
-<div align="center">
-<!--<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=goheljay&show_icons=true&locale=en&theme=radical" alt="goheljay" /></p> -->
-  </div>
-<!--
-[![Jay's github activity graph](https://activity-graph.herokuapp.com/graph?username=Goheljay&theme=react-dark)](https://github.com/Goheljay)
--->
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **FinStackk** | Fintech platform for financial management, investment tracking & analytics | Vue.js, Java, Node.js, REST API |
+| **GoKnit** | AI knitting platform with GPT-powered pattern suggestions & real-time assistance | ReactJS, AI/GPT |
+| **MakeMine** | Manufacturing, networks & sourcing service platform | Vue.js, Node.js |
+| [commiter](https://github.com/Goheljay/commiter) | Java-based version control system | Java |
+| [DSA Solutions](https://github.com/Goheljay/DSA-Leet-Code-Problem-Solution) | Curated LeetCode / DSA problem solutions | Java |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Goheljay&show_icons=true&theme=default&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goheljay&layout=compact&theme=default&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Goheljay&hide_border=true" height="150"/>
+</p>
+
+---
+
+### 🏆 Certifications & Achievements
+
+- 🏅 **Postman Student Expert**
+- ☁️ **Udacity Cloud Computing Scholarship** by SUSE
+
+---
+
+<p align="center">⭐ Thanks for visiting — feel free to explore my repos and reach out!</p>
