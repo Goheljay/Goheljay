@@ -65,11 +65,8 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **FinStackk** | Fintech platform for financial management, investment tracking & analytics | Vue.js, Java, Node.js, REST API |
-| **GoKnit** | AI knitting platform with GPT-powered pattern suggestions & real-time assistance | ReactJS, AI/GPT |
-| **MakeMine** | Manufacturing, networks & sourcing service platform | Vue.js, Node.js |
 | [commiter](https://github.com/Goheljay/commiter) | Java-based version control system | Java |
-| [DSA Solutions](https://github.com/Goheljay/DSA-Leet-Code-Problem-Solution) | Curated LeetCode / DSA problem solutions | Java |
+| Virtual Office | NodeJs based office gather place| Node, React |
 
 ---
 
